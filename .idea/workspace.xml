@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b1fbf6f-f148-42c8-8ae6-336eeb5cb385" name="Changes" comment="add gitignore">
+    <list default="true" id="1b1fbf6f-f148-42c8-8ae6-336eeb5cb385" name="Changes" comment="added annotations">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day17/BookingHoverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day17/BookingHoverTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day17/BookingMoscowTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day17/BookingKyiv1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day17/BookingMoscowTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day17/BookingKyiv2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day17/BookingMoscowTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day17/BookingKyiv3Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day17/BookingParisTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day17/BookingParisTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day17/DemoqaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day17/DemoqaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day17/SearchTutorialTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day17/SearchTutorialTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +29,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -41,14 +54,95 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/nastassyarazhdzestvenskaya/Documents/java_at2022/Nasta_Razhdzestvenskaya_maven_at_project",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nastassyarazhdzestvenskaya/Documents/java_at2022/Nasta_Razhdzestvenskaya_maven_at_project&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.DbConnect">
+    <configuration name="DbConnect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="databases.DbConnect" />
+      <module name="Nasta_Razhdzestvenskaya_maven_at_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="databases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DefaultLogging" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day18.DefaultLogging" />
+      <module name="Nasta_Razhdzestvenskaya_maven_at_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L4JLogging" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day18.L4JLogging" />
+      <module name="Nasta_Razhdzestvenskaya_maven_at_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookingParisTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Nasta_Razhdzestvenskaya_maven_at_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day17" />
+      <option name="MAIN_CLASS_NAME" value="day17.BookingParisTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookingParisTest.testing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Nasta_Razhdzestvenskaya_maven_at_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day17" />
+      <option name="MAIN_CLASS_NAME" value="day17.BookingParisTest" />
+      <option name="METHOD_NAME" value="testing" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DbConnect" />
+        <item itemvalue="Application.L4JLogging" />
+        <item itemvalue="Application.DefaultLogging" />
+        <item itemvalue="JUnit.BookingParisTest" />
+        <item itemvalue="JUnit.BookingParisTest.testing" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670964935278</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added annotations">
+      <created>1670966210559</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670966210559</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,6 +182,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="add gitignore" />
+    <MESSAGE value="added annotations" />
+    <option name="LAST_COMMIT_MESSAGE" value="added annotations" />
   </component>
 </project>
