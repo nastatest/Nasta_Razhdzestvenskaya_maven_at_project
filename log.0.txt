@@ -1,0 +1,20 @@
+Dec 18, 2022 12:45:14 PM day18.DefaultLogging main
+SEVERE: Сообщение с уровнем SEVERE
+Dec 18, 2022 12:45:14 PM day18.DefaultLogging main
+WARNING: Сообщение с уровнем WARNING
+Dec 18, 2022 12:45:14 PM day18.DefaultLogging main
+INFO: Сообщение с уровнем INFO
+Dec 18, 2022 12:45:14 PM day18.DefaultLogging main
+CONFIG: Сообщение с уровнем CONFIG
+Dec 18, 2022 12:45:14 PM day18.DefaultLogging main
+FINE: Сообщение с уровнем FINE
+Dec 18, 2022 12:59:55 PM day18.DefaultLogging main
+SEVERE: Сообщение с уровнем SEVERE
+Dec 18, 2022 12:59:56 PM day18.DefaultLogging main
+WARNING: Сообщение с уровнем WARNING
+Dec 18, 2022 12:59:56 PM day18.DefaultLogging main
+INFO: Сообщение с уровнем INFO
+Dec 18, 2022 12:59:56 PM day18.DefaultLogging main
+CONFIG: Сообщение с уровнем CONFIG
+Dec 18, 2022 12:59:56 PM day18.DefaultLogging main
+FINE: Сообщение с уровнем FINE
